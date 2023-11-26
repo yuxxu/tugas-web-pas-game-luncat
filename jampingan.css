@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    background-image: url(bg.jpg);
+    background-size: 45%;
+    background-repeat:no-repeat;
+    background-position-y:-80px;
+}
+
+#board{
+    background-image:url(/inner-bg.png);
+    background-size: cover;
+}
